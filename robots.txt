@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://abdolijvcc.github.io/Web_no_ad/sitemap.xml
